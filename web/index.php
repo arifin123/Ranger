@@ -36,11 +36,6 @@
 		                <div class="row">
 		                    <div class="col-md-6">
 		                        <div class="form-group">
-		                            <label for="name">
-		                                Name</label>
-		                            <input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
-		                        </div>
-		                        <div class="form-group">
 		                            <label for="emailfrom">
 		                                From</label>
 		                            <div class="input-group">
