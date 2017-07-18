@@ -12,12 +12,15 @@
 3. Install PM2   
    http://pm2.keymetrics.io/docs/usage/quick-start/
 
+
 ### How To :
 1. Setup environtment
    - Go to root directory (path/ranger)
    - vim env.json, then change envi based on your platform (like mongoDB, sendGrid key, etc)
+2. open on terminal, go to path/ranger then run 
+   npm install
  
-2. then run on terminal using;  
+3. then run on terminal using;  
    pm2 start env.json --env development
 
 
